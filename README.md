@@ -2,4 +2,4 @@
 - Je suis intéressé par le développement plus précisément le développement mobile et web 
 - J'apprends Flutter
 - Je suis à la recherche d'opportunités pouvant me permettre de m'améliorer et accomplir de grandes choses 
-- WhatsApp :+226 75971281, email : kourastephane9@gmail.com, LinkedIn :Lemiyi Stéphane Ulrich KOURA
+- WhatsApp :+226 75971281, email : kourastephane9@gmail.com, LinkedIn :http://linkedin.com/in/lemiyi-stéphane-ulrich-koura-565a2227b
